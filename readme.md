@@ -56,4 +56,4 @@
        payment_table: true
 
 
-    注意: Windows 用户请在路径中使用双写反斜杠 (\\)。
+    注意: Windows 用户请在路径中使用双写反斜杠 (\\)!
