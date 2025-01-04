@@ -1,0 +1,5 @@
+# botgo specific
+*.yml
+
+# Go specific
+*.exe
